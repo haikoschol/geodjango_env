@@ -1,6 +1,6 @@
 # GeoDjango Tutorial
 
-The official GeoDjango tutorial from [](https://docs.djangoproject.com/en/1.6/ref/contrib/gis/tutorial/).
+The official GeoDjango tutorial from https://docs.djangoproject.com/en/1.6/ref/contrib/gis/tutorial/.
 
 * Python 3.3
 * Django 1.6.1
