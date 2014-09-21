@@ -1,6 +1,6 @@
-# GeoDjango Tutorial
+# GeoDjango Vagrant Environment
 
-The official GeoDjango tutorial from https://docs.djangoproject.com/en/1.6/ref/contrib/gis/tutorial/.
+Vagrantfile and boostrapping script for setting up a GeoDjango development environment.
 
 * Python 3.3
 * Django 1.6.1
