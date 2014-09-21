@@ -3,7 +3,7 @@
 Vagrantfile and boostrapping script for setting up a GeoDjango development environment.
 
 * Python 3.3
-* Django 1.6.1
+* Django 1.7
 * Vagrant
   * Ubuntu 12.04
   * PostgreSQL 9.3
